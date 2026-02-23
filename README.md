@@ -1,10 +1,10 @@
-# thevaleapp
+# proselintweb
 
-Issues and feedback handling for https://thevaleapp.com/
+Issues and feedback handling for https://proselintweb.com/
 
 ## About
 
-This repository is used for tracking issues, feedback, and feature requests for the TheValeApp application. The app itself is not open source, but we welcome your input to help us improve!
+This repository is used for tracking issues, feedback, and feature requests for the ProseLint Web application. The app itself is not open-source, but we welcome your input to help us improve!
 
 ## How to Submit
 
@@ -15,8 +15,3 @@ We've created simple templates to help you share your thoughts:
 - **✨ [Feature Request](../../issues/new?template=feature_request.yml)** - Suggest a new feature or improvement
 
 When submitting, you'll be asked to provide your app version number, which you can find in the app settings.
-
-## Quick Links
-
-- Visit the app: https://thevaleapp.com/
-- Submit an issue: [Create New Issue](../../issues/new/choose)
